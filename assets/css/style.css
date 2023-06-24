@@ -709,10 +709,10 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-/*  background: #149ddd;*/
+  /*  background: #149ddd;*/
   border-radius: 50%;
   transition: 0.5s;
-/*  border: 1px solid #149ddd;*/
+  /*  border: 1px solid #149ddd;*/
 }
 
 .services .icon i {
@@ -1063,6 +1063,7 @@ section {
   #hero {
     height: 70vh;
   }
+
   .breadcrumbs .d-flex {
     display: block !important;
   }
